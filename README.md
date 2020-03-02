@@ -7,3 +7,7 @@ This will contain all the slides
 Java Basics in 8 mins - https://www.youtube.com/watch?v=gfyQkdunrLs</br>
 Java 101  https://www.youtube.com/watch?v=eIrMbAQSU34</br>
 Install Java & IDE - https://www.youtube.com/watch?v=hknxXOIIQok
+
+#Maven
+
+Maven 101 - https://www.youtube.com/watch?v=HBXxBJ-7LFw
